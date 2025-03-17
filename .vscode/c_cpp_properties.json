@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/homebrew/Cellar/opencv/4.11.0_1/include/opencv4/",
+                "/opt/homebrew/Cellar/spdlog/1.15.1/include",
+                "/opt/homebrew/Cellar/nlohmann-json/3.11.3/include",
+                "/opt/homebrew/Cellar/fmt/11.1.4/include",
+                "/opt/homebrew/Cellar/onnxruntime/1.21.0/include/onnxruntime"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c23",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "macos-clang-arm64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

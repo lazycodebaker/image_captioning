@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=xuIDxWxDqXQ
+
+https://github.com/Neuralearn/onnx_cplusplus
+
+https://github.com/iwatake2222/play_with_tflite/tree/master/pj_tflite_lane_ultra-fast-lane-detection
+
+https://www.youtube.com/watch?v=1JGNWwFj4VA
+
+https://github.com/doleron/yolov5-opencv-cpp-python
+
+yolo : https://www.youtube.com/watch?v=zfLTforY5qQ
+
+https://github.com/Aimol-l/OrtInference
+
+https://www.acfun.cn/v/ac46243626
+ 
+https://github.com/yformer/EfficientSAM
+
+https://github.com/Aimol-l/SAM2Export

@@ -1,0 +1,7 @@
+{
+    "model_path": "path/to/captioning_model.onnx",
+    "vocab_path": "path/to/vocabulary.json",
+    "input_shape": [1, 3, 224, 224],
+    "max_caption_length": 20,
+    "beam_width": 5
+}
