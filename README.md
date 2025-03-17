@@ -44,7 +44,7 @@ Optional:
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/image-captioning-system.git
+   git clone https://github.com/lazycodebaker/image_captioning
    cd image-captioning-system
    ```
 
